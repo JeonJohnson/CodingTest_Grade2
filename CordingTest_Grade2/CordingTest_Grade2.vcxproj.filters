@@ -24,5 +24,11 @@
     <ClCompile Include="소스.cpp">
       <Filter>Default\소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="N개의 최소공배수.cpp">
+      <Filter>211114_sun</Filter>
+    </ClCompile>
+    <ClCompile Include="JadenCase 문자열 만들기.cpp">
+      <Filter>211114_sun</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
