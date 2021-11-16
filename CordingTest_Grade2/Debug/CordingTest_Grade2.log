@@ -1,4 +1,4 @@
-﻿  N개의 최소공배수.cpp
-e:\학업\codingtest_grade2\cordingtest_grade2\cordingtest_grade2\n개의 최소공배수.cpp(27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-e:\학업\codingtest_grade2\cordingtest_grade2\cordingtest_grade2\n개의 최소공배수.cpp(61): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+﻿  최대값과 최솟값.cpp
+e:\학업\codingtest_grade2\cordingtest_grade2\cordingtest_grade2\최대값과 최솟값.cpp(21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\학업\codingtest_grade2\cordingtest_grade2\cordingtest_grade2\최대값과 최솟값.cpp(47): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
   CordingTest_Grade2.vcxproj -> E:\학업\CodingTest_Grade2\CordingTest_Grade2\Debug\CordingTest_Grade2.exe
