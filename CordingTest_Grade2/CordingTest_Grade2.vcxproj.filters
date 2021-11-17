@@ -25,6 +25,9 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
+    <Filter Include="211117_wed">
+      <UniqueIdentifier>{cdbc0762-38d9-4399-a155-1be123344746}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="소스.cpp">
@@ -47,6 +50,12 @@
     </ClCompile>
     <ClCompile Include="최대값과 최솟값.cpp">
       <Filter>211116_tue</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자의 표현.cpp">
+      <Filter>211117_wed</Filter>
+    </ClCompile>
+    <ClCompile Include="땅따먹기.cpp">
+      <Filter>211117_wed</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
