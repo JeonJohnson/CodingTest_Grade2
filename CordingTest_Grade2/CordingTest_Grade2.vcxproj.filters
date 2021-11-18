@@ -28,6 +28,9 @@
     <Filter Include="211117_wed">
       <UniqueIdentifier>{cdbc0762-38d9-4399-a155-1be123344746}</UniqueIdentifier>
     </Filter>
+    <Filter Include="211118_Thurs">
+      <UniqueIdentifier>{337263f6-f97c-4cc3-a7d8-47751ed53ba5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="소스.cpp">
@@ -56,6 +59,12 @@
     </ClCompile>
     <ClCompile Include="땅따먹기.cpp">
       <Filter>211117_wed</Filter>
+    </ClCompile>
+    <ClCompile Include="다음 큰 숫자.cpp">
+      <Filter>211118_Thurs</Filter>
+    </ClCompile>
+    <ClCompile Include="n진수게임-kakao.cpp">
+      <Filter>211118_Thurs</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
