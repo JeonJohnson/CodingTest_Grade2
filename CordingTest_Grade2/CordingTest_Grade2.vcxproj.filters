@@ -31,6 +31,9 @@
     <Filter Include="211118_Thurs">
       <UniqueIdentifier>{337263f6-f97c-4cc3-a7d8-47751ed53ba5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="211119_fri">
+      <UniqueIdentifier>{d2f12c86-b5e2-4cda-83e0-b6e3d3b027df}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="소스.cpp">
@@ -65,6 +68,12 @@
     </ClCompile>
     <ClCompile Include="n진수게임-kakao.cpp">
       <Filter>211118_Thurs</Filter>
+    </ClCompile>
+    <ClCompile Include="파일명 정렬-kakao.cpp">
+      <Filter>211119_fri</Filter>
+    </ClCompile>
+    <ClCompile Include="올바른 괄호.cpp">
+      <Filter>211119_fri</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

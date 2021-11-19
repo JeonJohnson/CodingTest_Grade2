@@ -1,4 +1,7 @@
-﻿  n진수게임-kakao.cpp
-e:\학업\codingtest_grade2\cordingtest_grade2\cordingtest_grade2\n진수게임-kakao.cpp(82): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
-e:\학업\codingtest_grade2\cordingtest_grade2\cordingtest_grade2\n진수게임-kakao.cpp(96): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+﻿  파일명 정렬-kakao.cpp
+e:\학업\codingtest_grade2\cordingtest_grade2\cordingtest_grade2\파일명 정렬-kakao.cpp(17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\학업\codingtest_grade2\cordingtest_grade2\cordingtest_grade2\파일명 정렬-kakao.cpp(46): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\학업\codingtest_grade2\cordingtest_grade2\cordingtest_grade2\파일명 정렬-kakao.cpp(114): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\학업\codingtest_grade2\cordingtest_grade2\cordingtest_grade2\파일명 정렬-kakao.cpp(132): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\학업\codingtest_grade2\cordingtest_grade2\cordingtest_grade2\파일명 정렬-kakao.cpp(142): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
   CordingTest_Grade2.vcxproj -> E:\학업\CodingTest_Grade2\CordingTest_Grade2\Debug\CordingTest_Grade2.exe
