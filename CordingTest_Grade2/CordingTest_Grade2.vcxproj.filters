@@ -34,6 +34,9 @@
     <Filter Include="211119_fri">
       <UniqueIdentifier>{d2f12c86-b5e2-4cda-83e0-b6e3d3b027df}</UniqueIdentifier>
     </Filter>
+    <Filter Include="211120_sat">
+      <UniqueIdentifier>{9fe9f0fd-f082-4f0f-9294-9a0d2e26362e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="소스.cpp">
@@ -74,6 +77,12 @@
     </ClCompile>
     <ClCompile Include="올바른 괄호.cpp">
       <Filter>211119_fri</Filter>
+    </ClCompile>
+    <ClCompile Include="가장 큰 정사각형 찾기.cpp">
+      <Filter>211120_sat</Filter>
+    </ClCompile>
+    <ClCompile Include="압축-kakao.cpp">
+      <Filter>211120_sat</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
