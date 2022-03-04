@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="211114_sun">
+      <UniqueIdentifier>{386932e4-dafc-4b5b-8abc-d94659cde6f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="211115_mon">
+      <UniqueIdentifier>{fb28e125-7d50-4aad-b3f3-6d97b4ee9d93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="211116_tue">
+      <UniqueIdentifier>{15f8b639-8ecd-47b4-b82e-f2974ffa0c11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00%29Default">
+      <UniqueIdentifier>{d9500017-39e2-4445-a93b-dfb9313b8dd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00%29Default\헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="00%29Default\리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="00%29Default\소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="211117_wed">
+      <UniqueIdentifier>{cdbc0762-38d9-4399-a155-1be123344746}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="211118_Thurs">
+      <UniqueIdentifier>{337263f6-f97c-4cc3-a7d8-47751ed53ba5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="211119_fri">
+      <UniqueIdentifier>{d2f12c86-b5e2-4cda-83e0-b6e3d3b027df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="211120_sat">
+      <UniqueIdentifier>{9fe9f0fd-f082-4f0f-9294-9a0d2e26362e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="소스.cpp">
+      <Filter>00%29Default\소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="N개의 최소공배수.cpp">
+      <Filter>211114_sun</Filter>
+    </ClCompile>
+    <ClCompile Include="JadenCase 문자열 만들기.cpp">
+      <Filter>211114_sun</Filter>
+    </ClCompile>
+    <ClCompile Include="행렬의 곱셈.cpp">
+      <Filter>211115_mon</Filter>
+    </ClCompile>
+    <ClCompile Include="피보나치 수열.cpp">
+      <Filter>211115_mon</Filter>
+    </ClCompile>
+    <ClCompile Include="최소값만들기.cpp">
+      <Filter>211116_tue</Filter>
+    </ClCompile>
+    <ClCompile Include="최대값과 최솟값.cpp">
+      <Filter>211116_tue</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자의 표현.cpp">
+      <Filter>211117_wed</Filter>
+    </ClCompile>
+    <ClCompile Include="땅따먹기.cpp">
+      <Filter>211117_wed</Filter>
+    </ClCompile>
+    <ClCompile Include="다음 큰 숫자.cpp">
+      <Filter>211118_Thurs</Filter>
+    </ClCompile>
+    <ClCompile Include="n진수게임-kakao.cpp">
+      <Filter>211118_Thurs</Filter>
+    </ClCompile>
+    <ClCompile Include="파일명 정렬-kakao.cpp">
+      <Filter>211119_fri</Filter>
+    </ClCompile>
+    <ClCompile Include="올바른 괄호.cpp">
+      <Filter>211119_fri</Filter>
+    </ClCompile>
+    <ClCompile Include="가장 큰 정사각형 찾기.cpp">
+      <Filter>211120_sat</Filter>
+    </ClCompile>
+    <ClCompile Include="압축-kakao.cpp">
+      <Filter>211120_sat</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
